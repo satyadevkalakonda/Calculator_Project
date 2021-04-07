@@ -1,7 +1,8 @@
 # Requirements
 ## Introduction
- --- TBD 
-
+ The Project is about Performing calculator operations In command line interface (CLI) using C Language
+ - A User can perform Arthmetic operations
+ - A User can Perform Scientific opertions
 ## Research
 ![Description](Link to Pic)
 -- Content 
