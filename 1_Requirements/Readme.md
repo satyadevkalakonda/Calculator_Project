@@ -19,23 +19,28 @@
 
 ## Who:
 
-**TBD**
+- As a single developer, I Will be soley working on this project
+- A normal user who requires calculator operations will be using this project
+- Any user can use It, It is an open source.
 
 ## What:
 
-**TBD**
+- We can except the results that user can perform mathematical operations like arthemetic & Scientific operations.
 
 ## When:
 
-**TBD**
+- The Project started on 6/04/2021
+- The project will be delivered on 15/04/21
 
 ## Where:
 
-**TBD**
+- The Project will be carried out to any one it is a opensource.
 
 ## How:
 
-**TBD**
+- The Project is going to be implemented in C language for the Both Windows & Linux OS
+- The constraints of the project are to develop using industry standards with a multi-file approach.
+- The Timeline of the project is 10 days.
 
 # Detail requirements
 ## High Level Requirements:
