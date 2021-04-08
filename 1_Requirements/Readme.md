@@ -3,8 +3,9 @@
  A Scientific calculator is a device which can perform some mathematical operations like arthmetic operations
 & scinetific operations i.e here In this project we are going to implement some calculator operations using
 C Language with a Command Line Interface ( CLI ) where it can perform operations like :
- - Arthemetic Operations - Addition , Multiplication , Divison , Subtraction
- - Scientific Operations - Sin , Cos , Tan , Power , Squareroot
+ - Arthemetic Operations 
+ - Scientific Operations 
+ - Trignometric Operations
 ## Research
 [Research paper](https://www.informs.org/Publications/INFORMS-Journals/Mathematics-of-Operations-Research)
 -- Content 
@@ -12,7 +13,27 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+  **Architecture:**
+  
+   ![Architecture](https://user-images.githubusercontent.com/36398260/113976051-0bf6bf00-985e-11eb-82ba-8e720062fe61.PNG)
+
+   
+ - Scientific Calculator application is capable of performing following functions:
+	 -  Arithmetic Operations
+		 - MUL 
+		 - SUB
+		 - DIV
+		 -  ADD
+	-  Trigonometric Operations
+		 - SIN
+		 - COS
+		 - TAN
+	-  Scientific Operations
+		 - LOG
+		 - POWER
+		 - SQUARE ROOT
+    
+
 ## SWOT ANALYSIS
 ![swot analysis](https://user-images.githubusercontent.com/36398260/113824520-89a6c600-979d-11eb-99d8-b258873850a1.png)
 
