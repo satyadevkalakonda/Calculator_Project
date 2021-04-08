@@ -6,7 +6,7 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
  - Arthemetic Operations - Addition , Multiplication , Divison , Subtraction
  - Scientific Operations - Sin , Cos , Tan , Power , Squareroot
 ## Research
-![Description](Link to Pic)
+[Research paper](https://www.informs.org/Publications/INFORMS-Journals/Mathematics-of-Operations-Research)
 -- Content 
 ## Cost and Features
 ![Description](Link to Pic)
