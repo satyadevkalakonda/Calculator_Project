@@ -1,8 +1,10 @@
 # Requirements
 ## Introduction
- The Project is about Performing calculator operations In command line interface (CLI) using C Language
- - A User can perform Arthmetic operations
- - A User can Perform Scientific opertions
+ A Scientific calculator is a device which can perform some mathematical operations like arthmetic operations
+& scinetific operations i.e here In this project we are going to implement some calculator operations using
+C Language with a Command Line Interface ( CLI ) where it can perform operations like :
+ - Arthemetic Operations - Addition , Multiplication , Divison , Subtraction
+ - Scientific Operations - Sin , Cos , Tan , Power , Squareroot
 ## Research
 ![Description](Link to Pic)
 -- Content 
