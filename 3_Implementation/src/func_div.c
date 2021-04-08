@@ -11,7 +11,7 @@ error divv(calc_arthmetic n,result* answer)
     }
     else
     {
-    answer->final_answer=(int) n.num_1/n.num_2;
+    answer->final_answer=n.num_1/n.num_2;
     return SUCCESS;
     }
 }
