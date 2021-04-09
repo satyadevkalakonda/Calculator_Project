@@ -67,8 +67,12 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+|ID| Description |status|
+|--|------------|------|
+|C001         |A user should be able to perform arithmetic operations  | Implemented
+|C002 |A user should be able to perform scientific operations| Implemented
+|C003|A user should be able to perform Trigonometric operations | Implemented
+
 
 
 ##  Low level Requirements:
