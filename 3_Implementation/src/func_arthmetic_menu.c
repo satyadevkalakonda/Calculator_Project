@@ -6,9 +6,12 @@
 
 
 static result ans={0};
-
 void arthmetic_menu()
 {
+    /**
+     * @brief arthmetic function to perfrom required  operations
+     * 
+     */
      calc_arthmetic value;
     
     int choice=-1;
@@ -17,6 +20,10 @@ void arthmetic_menu()
     scanf("%d",&choice);
     if(choice>=1 && choice<=5)
     {
+        /**
+         * @brief Construct a new if object
+         * 
+         */
         if(choice==5)
         {
             exit(0);
@@ -27,6 +34,10 @@ void arthmetic_menu()
         value.num_2=local_value2;
         switch(choice)
         {
+            /**
+             * @brief switch case for the performing required operation
+             * 
+             */
             case ADD:
             add(value,&ans);
             printf("\nThe Sum is : %.2f",ans.final_answer);

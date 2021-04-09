@@ -8,6 +8,10 @@
 static result ans={0};
 void scientific_menu()
 {
+    /**
+     * @brief 
+     * 
+     */
     calc_st value;
     calc_arthmetic valuee;
     int choice=-1;

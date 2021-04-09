@@ -1,6 +1,13 @@
 #include<stdio.h>
 #include "header.h"
 
+/**
+ * @brief mul function which returns the desired result using answer variable
+ * 
+ * @param n 
+ * @param answer 
+ * @return error 
+ */
 
 error mul(calc_arthmetic n,result* answer)
 {

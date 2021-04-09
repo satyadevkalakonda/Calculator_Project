@@ -11,7 +11,17 @@ src/func_scientific_menu.c\
 
 inc_h=inc
 
+
+ifdef OS
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+	  EXEC = out -lm
+   endif
+endif 
+
+
 create: $(files) project_main.c
-	gcc -I $(inc_h) $(files) project_main.c -o final.exe
+	gcc -I $(inc_h) $(files) project_main.c -o final.$(EXEC)
 run:final.exe
 	final.exe

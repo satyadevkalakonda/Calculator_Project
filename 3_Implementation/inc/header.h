@@ -3,23 +3,39 @@
 
 typedef struct calc_arthmetic
 {
+    /**
+     * @brief structure for arthmetic operations
+     * 
+     */
     float num_1;
     float num_2;
 } calc_arthmetic;
 
 typedef struct result
 {
+    /**
+     * @brief structure for result
+     * 
+     */
     float final_answer;
     
 }result;
 
 typedef struct calc_st
 {
+    /**
+     * @brief strcture for calculating specific operations
+     * 
+     */
     float num_1;
 }calc_st;
 
 typedef enum error
 {
+    /**
+     * @brief Enum for unit testing the functions
+     * 
+     */
     SUCCESS=1,
     FAIL=0,
     ERROR_DIV_ZERO=-1
@@ -28,7 +44,7 @@ typedef enum error
 enum naming_arthemetic
 {
     /**
-     * @brief giving values for variables using enum
+     * @brief Naming values to the variables
      * 
      */
 
@@ -41,6 +57,10 @@ enum naming_arthemetic
 
 enum naming_scientific
 {
+    /**
+     * @brief Naming values to the variables
+     * 
+     */
     LOG=1,
     POWER=2,
     SQRT=3

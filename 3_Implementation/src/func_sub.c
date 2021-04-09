@@ -1,6 +1,13 @@
 #include<stdio.h>
 #include "header.h"
 
+/**
+ * @brief sub function which returns the desired result using answer variable
+ * 
+ * @param n 
+ * @param answer 
+ * @return error 
+ */
 
 error sub(calc_arthmetic n,result* answer)
 {
