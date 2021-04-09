@@ -8,10 +8,10 @@ src/func_sqrt.c\
 src/func_arthmetic_menu.c\
 src/func_main_menu.c\
 src/func_scientific_menu.c\
-src\func_sin.c\
-src\func_cos.c\
-src\func_tan.c\
-src\func_trigo_menu.c\
+src/func_sin.c\
+src/func_cos.c\
+src/func_tan.c\
+src/func_trigo_menu.c\
 
 inc_h=inc
 
