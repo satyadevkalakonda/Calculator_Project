@@ -29,3 +29,5 @@ create: $(files) project_main.c
 	gcc -I $(inc_h) $(files) project_main.c -o final.$(EXEC)
 run:final.exe
 	final.exe
+valgrind:
+	valgrind ./final.$(EXEC)
