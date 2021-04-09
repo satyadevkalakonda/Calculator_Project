@@ -10,12 +10,3 @@ int main()
        main_menu();
     }    
 }
-
-
-
-
-
-void trignometric_menu()
-{
-    //
-}

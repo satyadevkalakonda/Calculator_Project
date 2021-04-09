@@ -65,7 +65,21 @@ enum naming_scientific
     POWER=2,
     SQRT=3
 };
+enum naming_trigo
+{
+    /**
+     * @brief Naming values to the variables
+     * 
+     */
+    SIN=1,
+    COS=2,
+    TAN=3
+};
 
+typedef struct result_t
+{
+    double final_answer;
+}result_t;
 
 void main_menu(void);
 void arthmetic_menu(void);
@@ -78,5 +92,7 @@ error divv(calc_arthmetic n,result* answer);
 error logg(calc_st n,result* answer);
 error power(calc_arthmetic n,result* answer);
 error sqrtt(calc_st n,result* answer);
-
+error sinn(calc_st n,result_t* answer);
+error coss(calc_st n,result_t* answer);
+error tann(calc_st n,result_t* answer);
 #endif
