@@ -48,7 +48,7 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 
 ## What:
 
-- We can except the results that user can perform mathematical operations like arthemetic & Scientific operations.
+- We can except the results that user can perform mathematical operations like arthimetic , Trigonometric & Scientific operations.
 
 ## When:
 
