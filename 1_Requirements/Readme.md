@@ -58,7 +58,6 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 ## Where:
 
 - The Project will be carried out to any one it is a opensource.
-- The 
 
 ## How:
 
