@@ -9,7 +9,7 @@ src/func_arthmetic_menu.c\
 src/func_main_menu.c\
 src/func_scientific_menu.c\
 
-inc_h=INC
+inc_h=inc
 
 create: $(files) project_main.c
 	gcc -I $(inc_h) $(files) project_main.c -o final.exe
