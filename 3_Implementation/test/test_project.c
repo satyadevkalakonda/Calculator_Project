@@ -18,7 +18,7 @@ void test_sub(void)
      * 
      */
     value.num_1=15;
-    value.num_1=5;
+    value.num_2=5;
     sub(value,&ans);
 	TEST_ASSERT_EQUAL(10,ans.final_answer);
 }
@@ -29,7 +29,7 @@ void test_add(void)
      * 
      */
     value.num_1=200;
-    value.num_1=100;
+    value.num_2=100;
     add(value,&ans);
 	TEST_ASSERT_EQUAL(300,ans.final_answer);
 }
@@ -40,7 +40,7 @@ void test_mul(void)
      * 
      */
     value.num_1=159;
-    value.num_1=286;
+    value.num_2=286;
     mul(value,&ans);
 	TEST_ASSERT_EQUAL(45474,ans.final_answer);
 }
@@ -52,9 +52,9 @@ void test_div(void)
      */
     
     value.num_1=386;
-    value.num_1=24;
+    value.num_2=24;
     divv(value,&ans);
-	TEST_ASSERT_EQUAL(15,ans.final_answer);
+	TEST_ASSERT_EQUAL(16,ans.final_answer);
 }
 
 
