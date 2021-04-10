@@ -14,7 +14,9 @@ src/func_tan.c\
 src/func_trigo_menu.c\
 
 inc_h=inc
-
+inc_uh= unity
+files_u= unity/unity.c
+test_u= test/test_project.c
 
 ifdef OS
    EXEC = exe
@@ -26,8 +28,18 @@ endif
 
 
 create: $(files) project_main.c
-	gcc -I $(inc_h) $(files) project_main.c -o final.$(EXEC)
-run:final.exe
-	final.exe
+	gcc -I $(inc_h)  $(files)  project_main.c -o final.$(EXEC)
+
+run:final.$(EXEC)
+	final.$(EXEC)
+
 valgrind:
 	valgrind ./final.$(EXEC)
+
+create_test: $(files) $(test_u) 
+	gcc -I $(inc_h) -I $(inc_uh) $(files) $(files_u) $(test_u)  -o final_test.$(EXEC)
+
+run_test:final_test.$(EXEC)
+		 final_test.$(EXEC)
+clean:
+	del *.$(EXEC)

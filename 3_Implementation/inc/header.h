@@ -7,8 +7,8 @@ typedef struct calc_arthmetic
      * @brief structure for arthmetic operations
      * 
      */
-    float num_1;
-    float num_2;
+    int num_1;
+    int num_2;
 } calc_arthmetic;
 
 typedef struct result
@@ -17,7 +17,7 @@ typedef struct result
      * @brief structure for result
      * 
      */
-    float final_answer;
+    int final_answer;
     
 }result;
 
@@ -27,7 +27,7 @@ typedef struct calc_st
      * @brief strcture for calculating specific operations
      * 
      */
-    float num_1;
+    int num_1;
 }calc_st;
 
 typedef enum error
