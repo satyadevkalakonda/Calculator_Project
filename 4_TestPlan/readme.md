@@ -2,11 +2,11 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|-------------|-------------|----------------|------------------|
-|  H_01       |Performing Arthmetic Operation|  ------------|-------------|----------------|Requirement based |
-|  H_02       |Performing Scintific Operation|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |Performing Trigonometic Operation|  ------------|-------------|----------------|Boundary based    |
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** | 
+|-------------|--------------------------------------------------------------|-------------|-------------|----------------|
+|  H_01       |Performing Arthmetic Operation|  ------------|-------------|----------------|
+|  H_02       |Performing Scintific Operation|  ------------|-------------|----------------|
+|  H_03       |Performing Trigonometic Operation|  ------------|-------------|----------------|
 
 ## Table no: Low level test plan
 
