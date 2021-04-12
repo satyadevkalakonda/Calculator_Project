@@ -8,10 +8,21 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
  - Trignometric Operations
 ## Research
 [Research paper](https://www.informs.org/Publications/INFORMS-Journals/Mathematics-of-Operations-Research)
+The Scientific calculator doesn't involve any complex operations or any operations. It is easy to apply the values in the system to find the required result rather than remembering and applying it in formula. Thus by studying all these facts, the necessary functions has been implemented to get the required results in a better way.
 -- Content 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+Depending upon the project how well it is built and all the requirements will meet the cost and it can be varied according to the market.
+- Addition : The addition Add() function takes two operands as input and the function results in a+b.
+- Subtraction : The subtraction Sub() function takes two operands as input and the function results in a-b.
+- Multiplication : The multiplication Mul() function takes two operands as input and the function results in a*b.
+- Division : The division Div() function takes two operands as input and the function results in a/b.
+- Log : The log log10() function takes one operand as input and the function results in log10(x) value.
+- Power : The power() function takes two operands as input and the function results in X^Y value.
+- Squareroot : The sqrt() function takes one operand as input and the function results in √x.
+- Sin : The sin() function takes one operand as input and the function results in desired value.
+- Cos : The cos() function takes one operand as input and the function results in desired value.
+- Tan : The tan() function takes one operand as input and the function results in desired value.
+
 ## Defining Our System
   **Architecture:**
   
@@ -23,7 +34,7 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 		 - MUL 
 		 - SUB
 		 - DIV
-		 -  ADD
+		 - ADD
 	-  Trigonometric Operations
 		 - SIN
 		 - COS
@@ -42,23 +53,21 @@ C Language with a Command Line Interface ( CLI ) where it can perform operations
 
 ## Who:
 
-- As a single developer, I Will be soley working on this project
-- A normal user who requires calculator operations will be using this project
-- Any user can use It, It is an open source.
+- The project is used by everyone in day to day life. All the students and employess who requires the calculations will use the program to find their answer. The main objective of this project is the user should be satisfied with freindly interface and fast calculation
 
 ## What:
 
 - We can except the results that user can perform mathematical operations like arthimetic , Trigonometric & Scientific operations.
+- All the basics functionalities are included in the project. User can use the program efficiently and get the required results.
+
 
 ## When:
 
-- The Project started on 6/04/2021
-- The project will be delivered on 15/04/21
+- The project can be used when the calculations are required  and get the results for basic and Math related problems and the result will be obtained fastly.
 
 ## Where:
 
-- The Project will be carried out to any one it is a opensource.
-- The Project will be used by users who requires matchematical operations.
+- In all the Domains it can be used and the project is portable and user-friendly,  It should overcome all the drawbacks of the Old existing system and most important of all meet the user requirements.
 
 ## How:
 
