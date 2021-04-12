@@ -15,7 +15,8 @@
 - Arthimetic operations behavioral diagram
 
 
-![Untitled](https://user-images.githubusercontent.com/36398260/114346841-b1bd6d00-9b81-11eb-9d81-72e008947dfe.png)
+![arthemetic_sequence](https://user-images.githubusercontent.com/36398260/114346929-d31e5900-9b81-11eb-8588-0957d6275a13.png)
+
 
 
 - Scientific operations behavioral diagram
