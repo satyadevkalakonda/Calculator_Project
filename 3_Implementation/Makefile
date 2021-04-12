@@ -48,5 +48,9 @@ create_test: $(files) $(test_u)
 
 run_test:final_test.$(EXEC)
 		 $(EXEC_T)
+coverageCheck:
+	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 -I $(inc_h) -I $(inc_uh) $(files) $(files_u) $(test_u) -o TEST_OUTPUT.out
+	./TEST_OUTPUT.out
+
 clean:
 	del *.$(EXEC)
