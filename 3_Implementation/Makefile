@@ -47,6 +47,6 @@ create_test: $(files) $(test_u)
 	gcc -I $(inc_h) -I $(inc_uh) $(files) $(files_u) $(test_u)  -o final_test.$(EXEC)
 
 run_test:final_test.$(EXEC_T)
-		 final_test.$(EXEC_T)
+		 ./final_test.$(EXEC_T)
 clean:
 	del *.$(EXEC)
