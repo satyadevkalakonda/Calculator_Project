@@ -21,3 +21,6 @@
 |  L_07       |Performing Arthmetic operation **'*'** |H_01|(159,286)|45474|45474|Requirement based |
 |  L_08       |Performing Arthmetic operation **'*'**|H_01|(-15,-26)|390|390|Scenario based|
 |  L_09       |Performing Arthmetic operation **'*'**|H_01|(159999,286666)|-126667|-126667|Boundary based|
+|  L_10       |Performing Arthmetic operation **'/'** |H_01|(3888,24)|162|162|Requirement based |
+|  L_11       |Performing Arthmetic operation **'/'**|H_01|(1,0)|ERROR_DIV_ZERO|ERROR_DIV_ZERO|Scenario based|
+|  L_12       |Performing Arthmetic operation **'/'**|H_01|(9999,3)|3333|3333|Boundary based|
