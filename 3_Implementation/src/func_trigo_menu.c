@@ -32,19 +32,19 @@ void trignometric_menu()
              */
             case SIN:
             sinn(value,&ans);
-            printf("\nThe Sin value is : %.2Lf",ans.final_answer);
+            printf("\nThe Sin value is : %.2f",ans.final_answer);
             printf("\n");
             break;
 
             case COS:
             coss(value,&ans);
-            printf("\nThe cos value is: %.2Lf",ans.final_answer);
+            printf("\nThe cos value is: %.2f",ans.final_answer);
             printf("\n");
             break;
 
             case TAN:
             tann(value,&ans);
-            printf("\nThe tan value is: %.2Lf",ans.final_answer);
+            printf("\nThe tan value is: %.2f",ans.final_answer);
             printf("\n");
             break;
 
