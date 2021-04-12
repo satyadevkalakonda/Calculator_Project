@@ -9,7 +9,6 @@
 
 
 
-![HighLevelBehaviouralDiagram](Link to Pic)
 
 ## Low Level Design 
 
