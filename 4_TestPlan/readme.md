@@ -12,6 +12,6 @@
 
 | **Test ID** | **Description**                                              |HL ID| **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-----|------------|-------------|------------------|------------------|
-|  L_01       |Arthmetic operation **'+'** |H_01|(200,100)|300|300|Requirement based |
-|  L_02       |Arthmetic operation **'+'**|H_01|(20*2,-9+5)|36|36|Scenario based|
-|  L_03       |Arthmetic operation **'+'**|H_01|(-99999,99999)|0|0|Boundary based|
+|  L_01       |Performing Arthmetic operation **'+'** |H_01|(200,100)|300|300|Requirement based |
+|  L_02       |Performing Arthmetic operation **'+'**|H_01|(20*2,-9+5)|36|36|Scenario based|
+|  L_03       |Performing Arthmetic operation **'+'**|H_01|(-99999,99999)|0|0|Boundary based|
