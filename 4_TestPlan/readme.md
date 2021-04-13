@@ -24,3 +24,21 @@
 |  L_10       |Performing Arthmetic operation **'/'** |H_01|(3888,24)|162|162|Requirement based |
 |  L_11       |Performing Arthmetic operation **'/'**|H_01|(1,0)|ERROR_DIV_ZERO|ERROR_DIV_ZERO|Scenario based|
 |  L_12       |Performing Arthmetic operation **'/'**|H_01|(9999,3)|3333|3333|Boundary based|
+|  L_13       |Performing Scientific operation **'Log'**|H_02|(8869)|3.95|3.95|Requirment based|
+|  L_14       |Performing Scientific operation **'Log'**|H_02|(124)|3.95|2.09|Scenario based|
+|  L_15       |Performing Scientific operation **'Log'**|H_02|(124)|3.95|2.09|Scenario based|
+|  L_16       |Performing Scientific operation **'sqrt'**|H_02|(24)|4.09|4.09|Requirment based|
+|  L_17       |Performing Scientific operation **'sqrt'**|H_02|(45*32)|37.95|37.95|Scenario based|
+|  L_18       |Performing Scientific operation **'sqrt'**|H_02|(9999)|99|99|Boundary based|
+|  L_19       |Performing Scientific operation **'power'**|H_02|(5,20)|95367433551872|95367433551872|Requirment based|
+|  L_20       |Performing Scientific operation **'power'**|H_02|(2*2,4)|256|256|Boundary based|
+|  L_21       |Performing Trignometric operation **'Sin'**|H_03|(10)|0.17|0.17|Requirment based|
+|  L_22       |Performing Trignometric operation **'Sin'**|H_03|(1000)|-0.98|-0.98|Boundary based|
+|  L_23       |Performing Trignometric operation **'Cos'**|H_03|(9)|0.99|0.99|Requirment based|
+|  L_24       |Performing Trignometric operation **'Cos'**|H_03|(8888)|-0.37|-0.37|Boundary based|
+|  L_25       |Performing Trignometric operation **'Tan'**|H_03|(6)|0.11|0.11|Requirment based|
+|  L_26       |Performing Trignometric operation **'Tan'**|H_03|(5555)|-0.47|-0.47|Boundary based|
+
+
+
+
