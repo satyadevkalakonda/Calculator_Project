@@ -8,7 +8,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/cppcheck.yml)
+[![C/C++ CI - Build Status](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/code_quality_dyanamic.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/code_quality_dyanamic.yml) | [![Unit Testing - Unity](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/unity.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
