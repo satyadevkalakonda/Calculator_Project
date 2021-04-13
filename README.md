@@ -27,7 +27,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1 While using some system functions like exit() in the program. When I started to execute the program My compiler says resource unavailable
+**1**. While using some system functions like exit() in the program. When I started to execute the program My compiler says resource unavailable
   By Unintsalling Antivirus It got Resolved
   
 
