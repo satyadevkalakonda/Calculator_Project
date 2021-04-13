@@ -30,5 +30,16 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 **1**. While using some system functions like exit() in the program. When I started to execute the program My compiler says resource unavailable
   By Unintsalling Antivirus It got Resolved
   
+# Usage of the project
 
+```sh
+# For Building the main application
+make create
+# For Running the main application
+make run
+# For Building the test file
+make create_test
+# For Running the test file
+make run_test
+```
 
