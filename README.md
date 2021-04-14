@@ -13,7 +13,17 @@ Folder             | Description
 ## Contributors List and Summary
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|-------------|----------------|----------------|---------------|-------------|--------------
-`260902` | K Satyadev  | Total project   | 2   | 2   | 26   | 26     
+`260902` | K Satyadev  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 2   | 2   | 26   | 26     
+
+| No |Feature  |
+|--|--|
+| SC1 |Calculating the arithmetic operations  |
+| SC2 |Calculating the Scientific operations |
+| SC3 |Calculating the Trigonometric operations |
+| SC4 |Unit Testing the code with various testcases |
+| SC5 |Building the all workflows In Git |
+| SC6 |Designing each module with readme files |
+| SC7 |Gathering all requirments and designing each phase |
 ## Challenges Faced and How Was It Overcome
 **1**. While using some system functions like exit() in the program. When I started to execute the program My compiler says resource unavailable
   By Unintsalling Antivirus It got Resolved
