@@ -1,6 +1,6 @@
-# TEST PLAN:
+# TEST PLAN
 
-## Table no: High level test plan
+## Table no - High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** | 
 |-------------|--------------------------------------------------------------|-------------|-------------|----------------|
@@ -8,7 +8,7 @@
 |  H_02       |Calling Scientific Menu|scientific_menu()|TRUE|TRUE|
 |  H_03       |Calling Trigonometric Menu|trigonometric_menu|TRUE|TRUE|
 
-## Table no: Low level test plan
+## Table no- Low level test plan
 
 | **Test ID** | **Description**                                              |HL ID| **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-----|------------|-------------|------------------|------------------|
@@ -38,7 +38,3 @@
 |  L_24       |Performing Trignometric operation **'Cos'**|H_03|(8888)|-0.37|-0.37|Boundary based|
 |  L_25       |Performing Trignometric operation **'Tan'**|H_03|(6)|0.11|0.11|Requirment based|
 |  L_26       |Performing Trignometric operation **'Tan'**|H_03|(5555)|-0.47|-0.47|Boundary based|
-
-
-
-
