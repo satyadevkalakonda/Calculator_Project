@@ -8,7 +8,7 @@
 |  H_02       |Calling Scientific Menu|scientific_menu()|TRUE|TRUE|
 |  H_03       |Calling Trigonometric Menu|trigonometric_menu|TRUE|TRUE|
 
-## Table no- Low level test plan
+## Table no - Low level test plan
 
 | **Test ID** | **Description**                                              |HL ID| **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-----|------------|-------------|------------------|------------------|
