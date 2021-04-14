@@ -25,8 +25,10 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 | SC6 |Designing each module with readme files |
 | SC7 |Gathering all requirments and designing each phase |
 ## Challenges Faced and How Was It Overcome
-**1**. While using some system functions like exit() in the program. When I started to execute the program My compiler says resource unavailable
-  By Unintsalling Antivirus It got Resolved
+| No |Challenge  | Solution
+|--|--|--|
+| 01 |Resource unavailable while using system commands  | Uninstalled MacAfee anti-virus  |
+| 02 | Make file not working even after following all steps  |renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe  |
 # Usage of the project
 ```sh
 # For Building the main application
