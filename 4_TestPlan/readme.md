@@ -6,7 +6,7 @@
 |-------------|--------------------------------------------------------------|-------------|-------------|----------------|
 |  H_01       |Calling Arthmetic Menu|arthmetic_menu()|TRUE|TRUE|
 |  H_02       |Calling Scientific Menu|scientific_menu()|TRUE|TRUE|
-|  H_03       |Calling Trigonometric Menu|trigonometric_menu|TRUE|TRUE|
+|  H_03       |Calling Trigonometric Menu|trigonometric_menu() |TRUE|TRUE|
 
 ## Table no - Low level test plan
 
