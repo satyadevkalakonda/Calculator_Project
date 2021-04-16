@@ -29,7 +29,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 |--|--|--|
 | 01 |Resource unavailable while using system commands  | Uninstalled MacAfee anti-virus  |
 | 02 | Make file not working even after following all steps  |renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe  |
-# Usage of the project
+# Usage Of the Project
 ```sh
 # For Building the main application
 make create
